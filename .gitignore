@@ -1,5 +1,7 @@
 gen
 *.class
 local.properties
+project.properties
+proguard.cfg
 .settings
-.cache
+*.cache

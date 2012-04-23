@@ -42,7 +42,7 @@
                 bootclasspathref="android.target.classpath"
                 logging="${logging}" addparams="${scala.compilerargs}"
                 classpath="${extensible.classpath}"
-                classpathref="jar.libs.ref">
+                classpathref="project.libraries.jars">
                 <src path="${source.absolute.dir}" />
                 <src path="${gen.absolute.dir}" />
                 <classpath>
