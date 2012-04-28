@@ -21,7 +21,7 @@ Builds the Scala applications targeted to the Android platform.
     <pathconvert property="dirs" pathsep=",">
         <path>
             <dirset dir="${basedir}" includes="*"
-                    excludes=".metadata,bin,configs,Ac*,Ma*,TicT*" />
+                    excludes=".metadata,bin,configs,Ac*,Mar*,TicT*" />
         </path>
     </pathconvert>
 

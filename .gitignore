@@ -1,7 +1,9 @@
 gen
 *.class
+ant.properties
 local.properties
 project.properties
 proguard.cfg
+proguard-project.txt
 .settings
 *.cache
